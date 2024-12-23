@@ -1,0 +1,177 @@
+country_name,un_class_2014,imf_class_2023,g7,eu_member,fuel_exp_country,wealth_rank,gdp_ppp_2022,gdp_pc_2022,continents
+Mauritius,Developing,Emerging,No,No,No,62,26906.00,9926.00,Africa
+Libya,Developing,Emerging,No,No,Yes,68,23375.00,6716.00,Africa
+Botswana,Developing,Emerging,No,No,No,80,18323.00,7738.00,Africa
+Equitorial Guinea,Developing,Emerging,No,No,Yes,87,17396.00,7053.00,Africa
+Gabon,Developing,Emerging,No,No,Yes,90,16471.00,8820.00,Africa
+South Africa,Developing,Emerging,No,No,No,92,15905.00,6776.00,Africa
+Egypt,Developing,Emerging,No,No,Yes,94,15091.00,4295.00,Africa
+Algeria,Developing,Emerging,No,No,Yes,102,13210.00,4274.00,Africa
+Côte d’Ivoire,Developing,Emerging,No,No,Yes,127,6538.00,2486.00,Africa
+Ghana,Developing,Emerging,No,No,No,128,6498.00,2176.00,Africa
+Mauritania,Developing,Emerging,No,No,No,130,6424.00,2191.00,Africa
+United States,Developed,Advanced,Yes,No,No,8,76399.00,75269.00,North America
+Nigeria,Developing,Emerging,No,No,Yes,133,5860.00,2184.00,Africa
+Kenya,Developing,Emerging,No,No,No,134,5764.00,2099.00,Africa
+Sao Tome and Prinicipe,Developing,Emerging,No,No,No,140,4738.00,2404.00,Africa
+Canada,Developed,Advanced,Yes,No,No,22,58400.00,55646.00,North America
+Cameroon,Developing,Emerging,No,No,Yes,143,4408.00,1588.00,Africa
+Sudan,Developing,Emerging,No,No,Yes,144,4216.00,1102.00,Africa
+Panama,Developing,Emerging,No,No,No,48,39280.00,17358.00,North America
+Senegal,Developing,Emerging,No,No,No,145,4209.00,1599.00,Africa
+Benin,Developing,Emerging,No,No,No,146,4056.00,1303.00,Africa
+Zambia,Developing,Emerging,No,No,No,147,3894.00,1488.00,Africa
+Costa Rica,Developing,Emerging,No,No,No,65,24932.00,13199.00,North America
+Comoros,Developing,Emerging,No,No,No,149,3832.00,1485.00,Africa
+Congo,Developing,Emerging,No,No,Yes,150,3791.00,2448.00,Africa
+Guinea,Developing,Emerging,No,No,No,153,3187.00,1532.00,Africa
+Dominican Republic,Developing,Emerging,No,No,No,69,22834.00,10121.00,North America
+Tanzania,Developing,Emerging,No,No,No,154,3097.00,1156.00,Africa
+Ethiopia,Developing,Emerging,No,No,No,155,2812.00,1028.00,Africa
+Rwanda,Developing,Emerging,No,No,No,156,2792.00,966.00,Africa
+Mexico,Developing,Emerging,No,No,No,71,21512.00,11091.00,North America
+Lesotho,Developing,Emerging,No,No,No,157,2695.00,1107.00,Africa
+Uganda,Developing,Emerging,No,No,No,158,2694.00,964.00,Africa
+Togo,Developing,Emerging,No,No,No,160,2608.00,918.00,Africa
+Burkina Faso,Developing,Emerging,No,No,No,161,2546.00,833.00,Africa
+Barbados,Developing,Emerging,No,No,No,82,17837.00,20019.00,North America
+Zimbabwe,Developing,Emerging,No,No,No,162,2531.00,1267.00,Africa
+Guyana,Developing,Emerging,No,No,No,44,40642.00,18990.00,South America
+Mali,Developing,Emerging,No,No,No,163,2517.00,833.00,Africa
+Chile,Developing,Emerging,No,No,No,58,30209.00,15355.00,South America
+Uruguay,Developing,Emerging,No,No,No,59,28842.00,20795.00,South America
+Gambia,Developing,Emerging,No,No,No,164,2510.00,840.00,Africa
+Guinea-Bissau,Developing,Emerging,No,No,No,166,2190.00,776.00,Africa
+Sierra Leone,Developing,Emerging,No,No,No,167,1931.00,461.00,Africa
+Trinidad and Tobago,Developing,Emerging,No,No,Yes,60,27778.00,18222.00,South America
+Argentina,Developing,Emerging,No,No,No,63,26505.00,13904.00,South America
+Madagascar,Developing,Emerging,No,No,No,168,1774.00,505.00,Africa
+Malawi,Developing,Emerging,No,No,No,169,1732.00,645.00,Africa
+Liberia,Developing,Emerging,No,No,No,170,1725.00,755.00,Africa
+Colombia,Developing,Emerging,No,No,Yes,75,20287.00,6630.00,South America
+Singapore,Developing,Advanced,No,No,No,2,127565.00,78115.00,Asia
+Brazil,Developing,Emerging,No,No,No,83,17822.00,8918.00,South America
+Paraguay,Developing,Emerging,No,No,No,91,15977.00,6153.00,South America
+Qatar,Developing,Emerging,No,No,Yes,5,114648.00,88046.00,Asia
+Peru,Developing,Emerging,No,No,No,95,15048.00,7126.00,South America
+United Arab Emirates (UAE),Transition,Advanced,No,No,Yes,6,87729.00,53758.00,Asia
+Brunei Darussalam,Developing,Emerging,No,No,Yes,11,69275.00,37152.00,Asia
+Hong Kong SAR,Developing,Advanced,No,No,No,13,69049.00,48050.00,Asia
+Bahrain,Developing,Emerging,No,No,Yes,19,61228.00,30152.00,Asia
+Kuwait,Developing,Emerging,No,No,Yes,23,58056.00,43233.00,Asia
+Australia,Developed,Advanced,No,No,No,18,62625.00,64003.00,Oceania
+Aoeteroa (New Zealand),Developed,Advanced,No,No,No,28,51967.00,47680.00,Oceania
+Tunisia,Developing,Emerging,No,No,No,105,12490.00,3777.00,Africa
+Jamaica,Developing,Emerging,No,No,No,106,11822.00,6047.00,North America
+El Salvador,Developing,Emerging,No,No,No,109,11096.00,5127.00,North America
+Guatemala,Developing,Emerging,No,No,No,112,10818.00,5324.00,North America
+Nicaragua,Developing,Emerging,No,No,No,124,6875.00,2255.00,North America
+Honduras,Developing,Emerging,No,No,No,126,6741.00,3040.00,North America
+Haiti,Developing,Emerging,No,No,No,151,3305.00,1748.00,North America
+Grenada,0,0,No,No,No,89,16987.00,10016.00,North America
+Bahamas,0,Emerging,No,No,No,46,40379.00,31458.00,North America
+St. Kitts and Nevis,0,Emerging,No,No,No,54,34052.00,20177.00,North America
+Antigua and Barbuda,0,Emerging,No,No,No,64,25337.00,18745.00,North America
+St. Lucia,0,Emerging,No,No,No,85,17756.00,11481.00,North America
+St. Vincent and the Grenadines,0,Emerging,No,No,No,88,17207.00,9125.00,North America
+Ecuador,Developing,Emerging,No,No,Yes,103,12822.00,6391.00,South America
+Bolivia (Plurinational State of),Developing,Emerging,No,No,Yes,115,9684.00,3523.00,South America
+Suriname,0,Emerging,No,No,No,86,17620.00,5858.00,South America
+Namibia,Developing,Emerging,No,No,No,108,11206.00,4911.00,Africa
+Morocco,Developing,Emerging,No,No,No,117,9519.00,3582.00,Africa
+Cabo Verde,Developing,Emerging,No,No,No,119,9083.00,3903.00,Africa
+Angola,Developing,Emerging,No,No,Yes,123,6974.00,2999.00,Africa
+Jordan,Developing,Emerging,No,No,No,110,11003.00,4205.00,Asia
+Iraq,Developing,Emerging,No,No,Yes,111,10862.00,5937.00,Asia
+Philippines,Developing,Emerging,No,No,No,114,10133.00,3499.00,Asia
+Uzbekistan,Transition,Emerging,No,No,Yes,116,9533.00,2322.00,Asia
+India,Developing,Emerging,No,No,No,120,8379.00,2389.00,Asia
+Bangladesh,Developing,Emerging,No,No,No,121,7395.00,2688.00,Asia
+Pakistan,Developing,Emerging,No,No,No,129,6437.00,1597.00,Asia
+Kyrgyzstan,Transition,Emerging,No,No,No,131,6133.00,1649.00,Asia
+Tajikistan,Transition,Emerging,No,No,No,137,4885.00,1054.00,Asia
+Myanmar,Developing,Emerging,No,No,No,138,4870.00,1096.00,Asia
+Timor-Leste,Developing,Emerging,No,No,No,139,4828.00,2358.00,Asia
+Nepal,Developing,Emerging,No,No,No,141,4725.00,1337.00,Asia
+Papua New Guinea,Developing,Emerging,No,No,No,142,4447.00,3020.00,Oceania
+Fiji,0,Developing,No,No,No,99,14125.00,5317.00,Oceania
+Chad,Developing,Emerging,No,No,Yes,171,1668.00,717.00,Africa
+Niger,Developing,Emerging,No,No,No,172,1505.00,533.00,Africa
+Mozambique,Developing,Emerging,No,No,No,173,1468.00,541.00,Africa
+Democratic Republic of Congo,Developing,Emerging,No,No,No,174,1337.00,586.00,Africa
+Central African Republic,Developing,Emerging,No,No,No,175,967.00,427.00,Africa
+Burundi,Developing,Emerging,No,No,No,176,836.00,238.00,Africa
+Seychelles,0,Emerging,No,No,No,53,35228.00,14829.00,Africa
+Eswatini,0,Emerging,No,No,No,113,10782.00,4040.00,Africa
+Saudi Arabia,Developing,Emerging,No,No,Yes,20,59065.00,30436.00,Asia
+Macao SAR,Developing,Advanced,No,No,No,26,55344.00,31618.00,Asia
+South Korea,Developing,Advanced,No,No,No,30,50070.00,32138.00,Asia
+Israel,Developing,Advanced,No,No,No,34,49509.00,57758.00,Asia
+Japan,Developed,Advanced,Yes,No,No,38,45573.00,34135.00,Asia
+Oman,Developing,Emerging,No,No,Yes,42,41724.00,25057.00,Asia
+Türkiye (Turkey),Developing,Emerging,No,No,No,50,37274.00,10616.00,Asia
+Russian Federation (Russia),Transition,Emerging,No,No,Yes,52,36485.00,15482.00,Asia
+Malaysia,Developing,Advanced,No,No,No,56,33434.00,11972.00,Asia
+Kazakhstan,Transition,Emerging,No,No,No,57,30810.00,11373.00,Asia
+China,Developing,Emerging,No,No,No,72,21476.00,12598.00,Asia
+Thailand,Developing,Emerging,No,No,No,73,20672.00,6909.00,Asia
+Armenia,Transition,Emerging,No,No,No,78,18942.00,7014.00,Asia
+Iran (Islamic Republic of),Developing,Emerging,No,No,Yes,81,18075.00,4388.00,Asia
+Azerbijan,Transition,Emerging,No,No,Yes,84,17764.00,7600.00,Asia
+Indonesia,Developing,Advanced,No,No,Yes,96,14653.00,4788.00,Asia
+Sri Lanka,Developing,Emerging,No,No,No,97,14405.00,3408.00,Asia
+Mongolia,Developing,Emerging,No,No,No,98,14230.00,4947.00,Asia
+Viet Nam (Vietnam),Developing,Emerging,No,No,Yes,101,13457.00,4164.00,Asia
+Lao P.D.R. (Laos),0,Emerging,No,No,No,118,9384.00,2088.00,Asia
+Palestine (State Of),0,Emerging,No,No,No,125,6757.00,3640.00,Asia
+Maldives,0,0,No,No,No,66,24772.00,11818.00,Asia
+Samoa,0,Emerging,No,No,No,132,6041.00,3743.00,Oceania
+Tuvalu,0,Emerging,No,No,No,135,5421.00,5335.00,Oceania
+Vanuatu,0,Emerging,No,No,No,152,3289.00,3010.00,Oceania
+Solomon Islands,0,Emerging,No,No,No,159,2654.00,2203.00,Oceania
+Kiribati,0,Emerging,No,No,No,165,2365.00,1702.00,Oceania
+Marshall Islands,0,0,No,No,No,122,7228.00,6728.00,Oceania
+Micronesia,0,0,No,No,No,148,3855.00,792.00,Oceania
+Dominica,0,Emerging,No,No,No,100,13573.00,8415.00,North America
+Belize,0,Emerging,No,No,No,107,11451.00,6968.00,North America
+Luxembourg,Developed,Advanced,No,Yes,No,1,142214.00,127046.00,Europe
+Ireland,Developed,Advanced,No,Yes,No,3,126905.00,105362.00,Europe
+Norway,Developed,Advanced,No,No,No,4,114899.00,106594.00,Europe
+Switzerland,Developed,Advanced,No,No,No,7,83598.00,92410.00,Europe
+Denmark,Developed,Advanced,No,Yes,No,9,74005.00,67220.00,Europe
+Netherlands,Developed,Advanced,No,Yes,No,10,69577.00,56429.00,Europe
+Iceland,Developed,Advanced,No,No,No,12,69081.00,74663.00,Europe
+Austria,Developed,Advanced,No,Yes,No,14,67936.00,52732.00,Europe
+Belgium,Developed,Advanced,No,Yes,No,15,65027.00,49640.00,Europe
+Sweden,Developed,Advanced,No,Yes,No,16,64578.00,55543.00,Europe
+Germany,Developed,Advanced,Yes,Yes,No,17,63150.00,48845.00,Europe
+Finland,Developed,Advanced,No,Yes,No,21,59027.00,50684.00,Europe
+Malta,Developed,Advanced,No,Yes,Yes,24,55928.00,33313.00,Europe
+France,Developed,Advanced,Yes,Yes,No,25,55493.00,43061.00,Europe
+United Kingdom,Developed,Advanced,Yes,No,No,27,54603.00,45485.00,Europe
+Italy,Developed,Advanced,Yes,Yes,No,29,51865.00,34053.00,Europe
+Slovenia,Developed,Advanced,No,Yes,No,31,50032.00,29303.00,Europe
+Czech Republic,Developed,Advanced,No,Yes,No,32,49946.00,27723.00,Europe
+Cyprus,Developed,Advanced,No,Yes,No,33,49931.00,22724.00,Europe
+Lithuania,Developed,Advanced,No,Yes,No,35,48397.00,25576.00,Europe
+Estonia,Developed,Advanced,No,Yes,No,36,46697.00,28732.00,Europe
+Spain,Developed,Advanced,No,Yes,No,37,45825.00,29385.00,Europe
+Poland,Developed,Advanced,No,Yes,No,39,43269.00,17266.00,Europe
+Hungary,Developed,Advanced,No,Yes,No,40,41907.00,17938.00,Europe
+Romania,Developed,Advanced,No,Yes,No,41,41888.00,15324.00,Europe
+Portugal,Developed,Advanced,No,Yes,No,43,41452.00,24530.00,Europe
+Croatia,Developed,Advanced,No,Yes,No,45,40380.00,17608.00,Europe
+Latvia,Developed,Advanced,No,Yes,No,47,39956.00,22238.00,Europe
+Slovakia,Developed,Advanced,No,Yes,No,49,37459.00,20461.00,Europe
+Greece,Developed,Advanced,No,Yes,No,51,36835.00,21095.00,Europe
+Bulgaria,Developed,Advanced,No,Yes,No,55,33582.00,13129.00,Europe
+Montenegro,Transition,Emerging,No,No,No,61,26984.00,9721.00,Europe
+Serbia,Transition,Emerging,No,No,No,67,23911.00,8794.00,Europe
+Belarus,Transition,Emerging,No,No,No,70,22591.00,7634.00,Europe
+Bosnia and Herzegovina,Transition,Emerging,No,No,No,74,20377.00,7585.00,Europe
+Macedonia,Transition,Emerging,No,No,No,76,20162.00,6478.00,Europe
+Georgia,Transition,Emerging,No,No,No,77,20113.00,6571.00,Europe
+Albania,Transition,Emerging,No,No,No,79,18552.00,6643.00,Europe
+Moldova,Transition,Emerging,No,No,No,93,15238.00,4406.00,Europe
+Ukraine,Transition,Emerging,No,No,No,104,12671.00,4043.00,Europe
+Andorra,0,Advanced,No,No,Yes,0,0.00,41993.00,Europe
