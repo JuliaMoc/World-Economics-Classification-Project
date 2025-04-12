@@ -13,6 +13,8 @@ The main motivation and objectives of this project are:
 
 This project serves as an excellent resource for economists, researchers, and data enthusiasts looking to explore economic trends through data-driven storytelling.
 
+⚠️ Note: This is a self-initiated learning project using open-source data for practice and portfolio development.
+
 ## 🏗️ Project Workflow
 
 The project follows a structured **data pipeline** that ensures the accuracy and usability of insights.
