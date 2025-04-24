@@ -70,13 +70,13 @@ This visual approach makes complex economic data more accessible, allowing for d
 
 ## 📢 Future Directions
 
-🔹Incorporating historical GDP trends for a time-series analysis.
+- Incorporating historical GDP trends for a time-series analysis.
 
-🔹Automating data processing using Python (Pandas & SQLAlchemy).
+- Automating data processing using Python (Pandas & SQLAlchemy).
 
-🔹Expanding the dataset to include additional economic indicators (e.g., inflation, unemployment rates).
+- Expanding the dataset to include additional economic indicators (e.g., inflation, unemployment rates).
 
-🔹Enhance interactivity in Tableau by adding more filters.
+- Enhance interactivity in Tableau by adding more filters.
 
 ## 📖 License
 
