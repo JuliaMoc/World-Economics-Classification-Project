@@ -47,9 +47,13 @@ This report provides:
 
 ✔ An **interactive dendrogram**, allowing users to explore GDP per capita per continent and country.
 
+<img width="894" alt="Dashboard_Part1" src="https://github.com/user-attachments/assets/b39adb50-c1a5-42b0-a536-52304896329f" />
+
 ✔ **Bar charts**, comparing GDP per capita across different economic classifications (e.g., IMF & UN, G7 and EU membership and fuel-exporting countries).
 
 ✔ A **scatter plot**, visualizing a GDP per capita overview by country, color-coded by continent.
+
+<img width="598" alt="Dashboard_Part2" src="https://github.com/user-attachments/assets/1ec0f68b-7427-4f95-a15e-b30a280b4ea7" />
 
 This visual approach makes complex economic data more accessible, allowing for deeper exploration and pattern recognition.
 
